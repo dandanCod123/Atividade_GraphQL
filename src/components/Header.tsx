@@ -1,4 +1,7 @@
+
+
 export function Header(){
+  
     return(
     <header >
         <div className="w-screen 
@@ -9,8 +12,10 @@ export function Header(){
         flex 
         justify-center">
         <strong className="text-gray-200">sistema de controle de viagem</strong>
-        </div>
 
+
+
+        </div>
     </header>
  );
 }
